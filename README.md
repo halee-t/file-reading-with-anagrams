@@ -1,2 +1,2 @@
 # file-reading-with-anagrams
-C#
+Program that will show you anagrams by reading from a file. Programmed in C#
