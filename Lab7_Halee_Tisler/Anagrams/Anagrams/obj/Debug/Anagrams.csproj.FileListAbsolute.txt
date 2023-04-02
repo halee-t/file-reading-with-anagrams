@@ -1,0 +1,12 @@
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\bin\Debug\Anagrams.exe.config
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\bin\Debug\Anagrams.exe
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\bin\Debug\Anagrams.pdb
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\bin\Debug\Histo.dll
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\obj\Debug\Anagrams.csproj.AssemblyReference.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\obj\Debug\Anagrams.Form1.resources
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\obj\Debug\Anagrams.Properties.Resources.resources
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\obj\Debug\Anagrams.csproj.GenerateResource.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\obj\Debug\Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\obj\Debug\Anagrams.csproj.CopyComplete
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\obj\Debug\Anagrams.exe
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab7_Halee_Tisler\Anagrams\Anagrams\obj\Debug\Anagrams.pdb
